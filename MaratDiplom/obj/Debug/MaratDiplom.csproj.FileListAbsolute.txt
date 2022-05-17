@@ -1,0 +1,16 @@
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\bin\Debug\MaratDiplom.exe.config
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\bin\Debug\MaratDiplom.exe
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\bin\Debug\MaratDiplom.pdb
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.csproj.AssemblyReference.cache
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.csproj.SuggestedBindingRedirects.cache
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.LoginForm.resources
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.Properties.Resources.resources
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.csproj.GenerateResource.cache
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.csproj.CoreCompileInputs.cache
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.exe
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.pdb
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.ClientOrdersForm.resources
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.OrdersWorkersForm.resources
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.AdminForm.resources
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.ServicesForm.resources
+E:\trash\MaratDiplom\MaratDiplom\MaratDiplom\obj\Debug\MaratDiplom.ReportForm.resources
